@@ -80,8 +80,8 @@ var Lang = (function () {
 
 		// Set default and current language to the default one
 		// to start with
-		this.defaultLang = defaultLang || 'en';
-		this.currentLang = defaultLang || 'en';
+		this.defaultLang = defaultLang || 'zh';
+		this.currentLang = defaultLang || 'zh';
 
 		// Check for cookie support when no current language is specified
 		if ((allowCookieOverride || !currentLang) && Cookies) {
