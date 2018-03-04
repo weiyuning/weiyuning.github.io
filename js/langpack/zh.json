@@ -1,0 +1,18 @@
+{
+	"token": {
+		"韦玉宁":"Acewell",
+		"微博：@韦玉宁":"Weibo：@韦玉宁",
+		"邮箱：@gmail.com":"Email:",
+		"Property Type":"ชนิดที่อยู่อาศัย",
+		"Added In":"ลงประกาศเมื่อ",
+		"Show All":"แสดงผลทั้งหมด",
+		"House":"บ้าน",
+
+	
+	},
+	"regex": [
+		["Budget", "งบประมาณ"],
+		["^Something at start of text", ""],
+		["This will be case insensitive", "i", ""]
+	]
+}
