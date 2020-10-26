@@ -63,9 +63,3 @@ transition: color .2s ease;
 a:hover {
 color: #f33;
 }
-footer {
-margin-top: 3em;
-text-align: center;
-color: #777;
-font-size: 85%;
-}
